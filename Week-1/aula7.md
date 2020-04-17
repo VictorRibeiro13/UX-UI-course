@@ -59,3 +59,11 @@ Personas | JOBS TO BE DONE
 Quem é essa pessoa ? | O que ela está tentando fazer
 Precisa que seu time crie uma empatia pelo cliente e possa entede-lo | Precisa que seu time saiba o que o cliente vai fazer para que que possa entede-lo, e criar uma solução para o problema
 
+
+## Alguns Links
+
+
+<a src="https://www.nngroup.com/articles/personas-jobs-be-done/?utm_source=Alertbox&utm_campaign=5c7fed11d0-Jobs-to-be-done_Science_Findings_2017_08_07&utm_medium=email&utm_term=0_7f29a2b335-5c7fed11d0-40363685"> Personas vs Jobs To Be Done </a>
+
+<a src="https://www.nngroup.com/articles/interviewing-users/"> Personas vs Jobs To Be Done </a>
+
