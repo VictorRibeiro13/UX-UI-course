@@ -62,8 +62,8 @@ Precisa que seu time crie uma empatia pelo cliente e possa entede-lo | Precisa q
 
 ## Alguns Links
 
+[Personas vs Jobs To Be Done ](https://www.nngroup.com/articles/personas-jobs-be-done/?utm_source=Alertbox&utm_campaign=5c7fed11d0-Jobs-to-be-done_Science_Findings_2017_08_07&utm_medium=email&utm_term=0_7f29a2b335-5c7fed11d0-40363685)
 
-<a src="https://www.nngroup.com/articles/personas-jobs-be-done/?utm_source=Alertbox&utm_campaign=5c7fed11d0-Jobs-to-be-done_Science_Findings_2017_08_07&utm_medium=email&utm_term=0_7f29a2b335-5c7fed11d0-40363685"> Personas vs Jobs To Be Done </a>
 
-<a src="https://www.nngroup.com/articles/interviewing-users/"> Personas vs Jobs To Be Done </a>
+[Entrevistando usuários](https://www.nngroup.com/articles/interviewing-users/)
 
