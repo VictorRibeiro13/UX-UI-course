@@ -42,3 +42,8 @@ Para saber o que se incluir em um Wireframe, é necessário fazer as seguintes r
   * Coloque faixas cinzas no local, melhor que colocar lorem ipsu, não passa credibilidade ao cliente.
 
 * Não é o Design Final, portanto não se preocupe em passar esse aspecto 
+
+
+## Observações
+
+>> É muito comum que wireframes sejam feitos com papel ao lado do cliente, quando o mesmo deseja ter uma primeira visão da estrutura do produto. 
