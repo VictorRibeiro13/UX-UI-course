@@ -5,9 +5,8 @@
     />
  </p>
  <h1 align="center">
-  <strong align="center">UX/UI Firsts Steps</strong>
+  <strong align="center">UX/UI First Steps</strong>
  </h1>
-
 
 UX/UI course by University of São Paulo and Taqtile
 
