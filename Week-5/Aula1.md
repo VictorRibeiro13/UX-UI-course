@@ -29,7 +29,9 @@ Elementos alinhados são sempre mais harmônicos. Por isso devemos dar importanc
 1. Defina o tamanho dos icones ( 12x12, 16x16, 20x20 ... )
 2. Hirarquia: Tenha em mente que exite uma hierarquia dos icones, seja porque ele está selecionado, ou por outros motivos dependendendo do negócio. Todavia, para exibir a relação hierarquica, pode ser feito a partir de tamanho, cores, expessura ou até mesmo trocar-se o item.
 
-<p align=center> <img src="https://user-images.githubusercontent.com/36003388/81417653-e333ea00-9121-11ea-9626-7d82b20375af.png"></p>
+<p align=center> 
+<img src="https://user-images.githubusercontent.com/36003388/81417653-e333ea00-9121-11ea-9626-7d82b20375af.png">
+</p>
 
 Na imagem acima, por exemplo, podemos perceber que há uma hierarquia, entre o item maior, verde, de estilo diferente, e os demais icones de navegação na barra inferior. Assim como, podemos perceber que na barra inferior há uma diferença e hierarquia também, mesmo contendo o mesmo estilo, tamanho e traços, a cor do icone seleciona coloca ele em uma hierarquia acima.
 
