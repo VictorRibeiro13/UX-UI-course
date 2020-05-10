@@ -20,7 +20,11 @@ UX/UI course by University of São Paulo and Taqtile
 * Atomic Model
 * Design Sprint
 * Style Guide
-* ...
+* Iconografia
+* Padrões Google/Apple
+* Espaçamento, alinhamento e tamanhos
+* Tipografia
+*...
 
 ## The Course
 
