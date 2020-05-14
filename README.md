@@ -3,6 +3,10 @@
       src="Week-1/assets/usp.jpeg"
       width="250"
     />
+   <img
+     src="https://user-images.githubusercontent.com/36003388/81885691-48983880-9571-11ea-834b-74ee23f0c98b.jpeg"
+     width="250"
+   />
  </p>
  <h1 align="center">
   <strong align="center">UX/UI First Steps</strong>
