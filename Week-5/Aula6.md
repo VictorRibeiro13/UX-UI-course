@@ -65,5 +65,3 @@ Entre outras diversas...
 * Devemos pensar no tamanho do dedo dos usuários;
 
 * A maioria do usuário costuma usar os aparelhos com somente um dedo de uma mão (dedão), por isso é importante deixar os elementos os mais comodos possível
-
-

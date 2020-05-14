@@ -26,7 +26,7 @@ UX/UI course by University of São Paulo and Taqtile
 * Tipografia
 * Cores
 * Gestos e interações
-* ...
+* Microinterações e transições
 
 ## The Course
 
