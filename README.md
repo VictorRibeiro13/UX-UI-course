@@ -24,7 +24,9 @@ UX/UI course by University of São Paulo and Taqtile
 * Padrões Google/Apple
 * Espaçamento, alinhamento e tamanhos
 * Tipografia
-*...
+* Cores
+* Gestos e interações
+* ...
 
 ## The Course
 
